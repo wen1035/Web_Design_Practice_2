@@ -1,0 +1,19 @@
+
+#timer
+{
+width: 100px;
+height: 100px;
+margin:100px 50px;
+text-align: center;
+padding-top: 30px;
+color
+: white
+;
+font-size: 25px;
+background-color: darkslateblue;
+}
+#hint
+{
+color: red;
+height: 30px;
+}
